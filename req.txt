@@ -1,0 +1,21 @@
+You have been given the task of analysing a data of your choosing.
+
+You need to: 
+
+1) Find an interesting dataset (15 points)
+
+2) Find clusters in your data (15 points)
+
+3) find outliers (15 points)
+
+4) Draw regression line (logistic) (15 points)
+
+5) make regression analysis by using logistic regression (15 points)
+
+You need to draw conclusions based on your anaysis and explain how you came to those conclusions. (25 points)
+
+Submit your work as a single pdf file containing your images, analysis and your r codes.
+
+ps: 10 extra points for aesthetics
+
+Good Luck!
