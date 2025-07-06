@@ -76,21 +76,6 @@ Total **500 rows × 9 variables**.
 
 ---
 
-## Usage
-
-```r
-# From an R session or RStudio project root
-source("ai_dev_productivity_analysis.R")
-```
-
-The script will:
-
-1. Load **ai\_dev\_productivity.csv**.
-2. Reproduce all figures and save them to a new `Visualization/` folder.
-3. Print clustering summaries, outlier counts, logistic regression tables and model metrics.
-
----
-
 ## Key Results & Findings
 
 | Topic               | Insight                                                                                                                                                                                                      |
