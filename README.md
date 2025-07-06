@@ -87,4 +87,4 @@ Total **500 rows × 9 variables**.
 
 ---
 
-> **Companion slide‑deck *****AI‑dev‑productivity.pdf***** summarises visuals and conclusions.**
+**Companion slide‑deck *****AI‑dev‑productivity.pdf***** summarises visuals and conclusions.**
